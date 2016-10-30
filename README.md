@@ -1,6 +1,6 @@
 # Awesome WU16 [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of [awesome](https://giphy.com/gifs/happy-excited-workaholics-6hGBMPByU31JK) links found by the web developers class of 2016.
+> A curated list of [awesome](https://github.com/sindresorhus/awesome#readme) links found by the web developers class of 2016.
 
 #### Contents
 
