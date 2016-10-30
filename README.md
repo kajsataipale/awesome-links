@@ -6,6 +6,7 @@
 
 - [JavaScript](#javascript)
 - [PHP](#php)
+- [Twitter](#twitter)
 
 ## JavaScript
 
@@ -14,6 +15,10 @@
 ## PHP
 
 - [The PHP Practitioner](https://laracasts.com/series/php-for-beginners) - A beginner video course by Laracasts.
+
+## Twitter
+
+- [Wes Bos](https://twitter.com/wesbos) - Wes tweets about JavaScript tips and tricks.
 
 ## License
 
