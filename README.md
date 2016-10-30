@@ -1,14 +1,19 @@
 # Awesome WU16 [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome [LIA](http://yrgo.se/foretag/samarbeta-med-yrgo/hitta-praktikanter-lia/) companies and opportunities for Yrgo students.
+> A curated list of awesome links found by the web developers class of 2016
 
 #### Contents
 
+- [JavaScript](#javascript)
 - [PHP](#php)
+
+## JavaScript
+
+- [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) - A beginner HTML & CSS online course by Udacity.
 
 ## PHP
 
-
+- [The PHP Practitioner](https://laracasts.com/series/php-for-beginners) - A beginner video course by Laracasts.
 
 ## License
 
