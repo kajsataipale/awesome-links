@@ -10,11 +10,11 @@
 
 ## JavaScript
 
-- [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) - A beginner HTML & CSS online course by Udacity.
+- [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) - A beginner HTML & CSS online course by [Udacity](https://www.udacity.com).
 
 ## PHP
 
-- [The PHP Practitioner](https://laracasts.com/series/php-for-beginners) - A beginner video course by Laracasts.
+- [The PHP Practitioner](https://laracasts.com/series/php-for-beginners) - A beginner video course by [Laracasts](https://laracasts.com).
 
 ## Twitter
 
