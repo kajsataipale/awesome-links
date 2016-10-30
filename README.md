@@ -18,6 +18,7 @@
 
 ## Twitter
 
+- [Monica Dinosaurescu](https://twitter.com/notwaldorf) - Monica is a [Polymer](https://www.polymer-project.org) and [Google Chrome](https://www.google.com/chrome) developer.
 - [Wes Bos](https://twitter.com/wesbos) - Wes tweets about JavaScript tips and tricks.
 
 ## License
