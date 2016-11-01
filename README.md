@@ -6,15 +6,16 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 #### Contents
 
+- [C#](#c)
 - [CSS](#css)
 - [JavaScript](#javascript)
 - [PHP](#php)
 - [Twitter](#twitter)
 - [YouTube](#youtube)
 
-## C# (C-sharp)
+## C\#
 
-- [C# fundamentals for absolute beginners](https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949) - Easy-to-follow course in C# using Visual Studio with tutor Bob Tabor. Highly recommended!
+- [C# for Beginners](https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-161699) - Easy-to-follow course in C# using Visual Studio with tutor Bob Tabor. Highly recommended!
 
 ## CSS
 
@@ -25,7 +26,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 ## JavaScript
 
 - [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) - A beginner HTML & CSS online course by [Udacity](https://www.udacity.com).
-- [YDKJS - You don't know Javascript](https://github.com/getify/You-Dont-Know-JS) - An open source Javascript book series from beginner to advanced.
+- [You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS) - An open source Javascript book series from beginner to advanced.
 
 ## PHP
 
