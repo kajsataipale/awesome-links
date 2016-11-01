@@ -2,6 +2,8 @@
 
 > A curated list of [awesome](https://github.com/sindresorhus/awesome#readme) links found by the web developers class of 2016.
 
+Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you read the [guidelines](CONTRIBUTING.md) first!
+
 #### Contents
 
 - [CSS](#css)
