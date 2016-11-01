@@ -20,6 +20,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 ## JavaScript
 
 - [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) - A beginner HTML & CSS online course by [Udacity](https://www.udacity.com).
+- [YDKJS - You don't know Javascript](https://github.com/getify/You-Dont-Know-JS) - An open source Javascript book series from beginner to advanced.
 
 ## PHP
 
