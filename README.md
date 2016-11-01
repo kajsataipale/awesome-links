@@ -13,9 +13,9 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Twitter](#twitter)
 - [YouTube](#youtube)
 
-## C\#
+<h2 id="c">C#</h2>
 
-- [C# for Beginners](https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-161699) - Easy-to-follow course in C# using Visual Studio with tutor Bob Tabor. Highly recommended!
+- [C# for Beginners](https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-161699) - Easy-to-follow course in C# using Visual Studio with tutor Bob Tabor.
 
 ## CSS
 
