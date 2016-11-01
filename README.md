@@ -27,7 +27,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 - [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) - A beginner HTML & CSS online course by [Udacity](https://www.udacity.com).
 - [You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS#readme) - An open source Javascript book series from beginner to advanced.
-- [Different ways to debug JavaScript code](https://medium.com/@sandeep.scet/different-ways-to-debug-javascript-code-579e7f58cf10#.yonipstcl) - Tons of tips for JS debugging. 
+- [Different Ways to Debug JavaScript Code](https://medium.com/@sandeep.scet/different-ways-to-debug-javascript-code-579e7f58cf10) - Tons of tips for JS debugging. 
 
 ## PHP
 
