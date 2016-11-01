@@ -21,12 +21,12 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 - [Flexbox Froggy](http://flexboxfroggy.com) -  An interactive game to learn [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes).
 - [What the Flexbox?](http://flexbox.io) - A simple, free 20 video course that will help you master Flexbox.
-- [Specifity Calculator](https://specificity.keegan.st/) - An interactive specifity calculator for selectors.
+- [Specifity Calculator](https://specificity.keegan.st) - An interactive specifity calculator for selectors.
 
 ## JavaScript
 
 - [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) - A beginner HTML & CSS online course by [Udacity](https://www.udacity.com).
-- [You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS) - An open source Javascript book series from beginner to advanced.
+- [You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS#readme) - An open source Javascript book series from beginner to advanced.
 
 ## PHP
 
