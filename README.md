@@ -24,6 +24,10 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 - [The PHP Practitioner](https://laracasts.com/series/php-for-beginners) - A beginner video course by [Laracasts](https://laracasts.com).
 
+## Tutorials
+
+- [Level Up Tutorials](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg) - Lots of in depth tutorials on mostly different frameworks.
+
 ## Twitter
 
 - [Monica Dinosaurescu](https://twitter.com/notwaldorf) - Monica is a [Polymer](https://www.polymer-project.org) and [Google Chrome](https://www.google.com/chrome) developer.
