@@ -12,6 +12,10 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Twitter](#twitter)
 - [YouTube](#youtube)
 
+## C# (C-sharp)
+
+- [C# fundamentals for absolute beginners](https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949) - Easy-to-follow course in C# using Visual Studio with tutor Bob Tabor. Highly recommended!
+
 ## CSS
 
 - [Flexbox Froggy](http://flexboxfroggy.com) -  An interactive game to learn [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes).
