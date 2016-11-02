@@ -32,7 +32,6 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 ## PHP
 
 - [The PHP Practitioner](https://laracasts.com/series/php-for-beginners) - A beginner video course by [Laracasts](https://laracasts.com).
-- [Codecourse](https://www.youtube.com/phpacademy) - YouTube channel with PHP tutorials
 
 ## Twitter
 
@@ -42,6 +41,8 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 ## YouTube
 
 - [Level Up Tutorials](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg) - Lots of in depth tutorials on mostly different frameworks.
+- [Codecourse](https://www.youtube.com/phpacademy) - Super awesome PHP tutorials.
+- [DevTips](https://www.youtube.com/user/devtipsfordesigners) - Really cool front-end and web design tutorials.
 
 ## License
 
