@@ -32,6 +32,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 ## PHP
 
 - [The PHP Practitioner](https://laracasts.com/series/php-for-beginners) - A beginner video course by [Laracasts](https://laracasts.com).
+- [Codecourse](https://www.youtube.com/phpacademy) - YouTube channel with PHP tutorials
 
 ## Twitter
 
