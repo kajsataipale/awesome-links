@@ -6,12 +6,19 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 #### Contents
 
+- [Atom](#atom)
 - [C#](#c)
 - [CSS](#css)
 - [JavaScript](#javascript)
 - [PHP](#php)
 - [Twitter](#twitter)
 - [YouTube](#youtube)
+
+## Atom
+
+- [editorconfig](https://github.com/sindresorhus/atom-editorconfig#readme) - Helps developers maintain consistent coding styles between different editors.
+- [linter-js-standard](https://github.com/ricardofbarros/linter-js-standard#readme) - Atom linter for JavaScript, using [JavaScript Standard Style](http://standardjs.com).
+- [perfectionist](https://github.com/sindresorhus/atom-perfectionist#readme) - Atom package to beautify CSS and SCSS with [Perfectionist](https://github.com/ben-eb/perfectionist).
 
 <h2 id="c">C#</h2>
 
@@ -37,6 +44,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 ## Twitter
 
+- [Front-End Front](https://twitter.com/frontendfront) - Front-End Front tweets interesting front-end development links.
 - [Monica Dinosaurescu](https://twitter.com/notwaldorf) - Monica is a [Polymer](https://www.polymer-project.org) and [Google Chrome](https://www.google.com/chrome) developer.
 - [Wes Bos](https://twitter.com/wesbos) - Wes tweets about JavaScript tips and tricks.
 
