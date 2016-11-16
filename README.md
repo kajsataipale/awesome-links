@@ -30,6 +30,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [What the Flexbox?](http://flexbox.io) - A simple, free 20 video course that will help you master Flexbox.
 - [Specifity Calculator](https://specificity.keegan.st) - An interactive specifity calculator for selectors.
 - [Flexbox Cheat-Sheet](http://www.lukeduncan.me/flexbox-cheat-sheet) - A Flexbox cheat-sheet by Luke Duncan.
+- [mydevice.io](http://www.mydevice.io/) - Good page for finding the right media queries for your responsive site.
 
 ## JavaScript
 
