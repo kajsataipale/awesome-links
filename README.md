@@ -1,6 +1,6 @@
-# Awesome WU16 [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Links [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of [awesome](https://github.com/sindresorhus/awesome#readme) links found by the web developers class of 2016.
+> A curated list of [awesome](https://github.com/sindresorhus/awesome#readme) links found by the web developer students.
 
 Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you read the [guidelines](CONTRIBUTING.md) first!
 
