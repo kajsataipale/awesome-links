@@ -27,11 +27,11 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 <h2 id="c">C#</h2>
 
-- [C# for Beginners](https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-161699) - Easy-to-follow course in C# using Visual Studio with tutor Bob Tabor.
+- [C# for Beginners](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169) - Easy-to-follow course in C# using Visual Studio with tutor Bob Tabor.
 
 ## CSS
 
-- [Flexbox Cheat-Sheet](http://www.lukeduncan.me/flexbox-cheat-sheet) - A Flexbox cheat-sheet by Luke Duncan.
+- [Flexbox Cheat-Sheet](http://www.lukeduncan.me/flexbox-cheat-sheet/) - A Flexbox cheat-sheet by Luke Duncan.
 - [Flexbox Froggy](http://flexboxfroggy.com) -  An interactive game to learn [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes).
 - [mydevice.io](http://www.mydevice.io/) - Good page for finding the right media queries for your responsive site.
 - [Specifity Calculator](https://specificity.keegan.st) - An interactive specifity calculator for selectors.
@@ -54,12 +54,12 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 ## Twitter
 
 - [Front-End Front](https://twitter.com/frontendfront) - Front-End Front tweets interesting front-end development links.
-- [Monica Dinosaurescu](https://twitter.com/notwaldorf) - Monica is a [Polymer](https://www.polymer-project.org) and [Google Chrome](https://www.google.com/chrome) developer.
+- [Monica Dinosaurescu](https://twitter.com/notwaldorf) - Monica is a [Polymer](https://www.polymer-project.org/1.0/) and [Google Chrome](https://www.google.com/chrome/) developer.
 - [Wes Bos](https://twitter.com/wesbos) - Wes tweets about JavaScript tips and tricks.
 
 ## YouTube
 
-- [Codecourse](https://www.youtube.com/phpacademy) - Super awesome PHP tutorials.
+- [Codecourse](https://www.youtube.com/codecourse) - Super awesome PHP tutorials.
 - [DevTips](https://www.youtube.com/user/devtipsfordesigners) - Really cool front-end and web design tutorials.
 - [Level Up Tutorials](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg) - Lots of in depth tutorials on mostly different frameworks.
 
