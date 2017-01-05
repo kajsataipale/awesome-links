@@ -1,5 +1,7 @@
 # Awesome Links [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+![Awesome Links](https://i.giphy.com/XEF1gVbnOodkQ.gif)
+
 > A curated list of [awesome](https://github.com/sindresorhus/awesome#readme) links found by the web developer students.
 
 Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you read the [guidelines](CONTRIBUTING.md) first!
