@@ -36,7 +36,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Flexbox Froggy](http://flexboxfroggy.com) -  An interactive game to learn [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes).
 - [mydevice.io](http://www.mydevice.io/) - Good page for finding the right media queries for your responsive site.
 - [Specifity Calculator](https://specificity.keegan.st) - An interactive specifity calculator for selectors.
-- [What the Flexbox?](http://flexbox.io) - A simple, free 20 video course that will help you master Flexbox.
+- [What the Flexbox?](http://flexbox.io/) - A simple, free 20 video course that will help you master Flexbox.
 
 ## JavaScript
 
