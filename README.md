@@ -52,16 +52,11 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 - [The PHP Practitioner](https://laracasts.com/series/php-for-beginners) - A beginner video course by [Laracasts](https://laracasts.com).
 
-
 ## Podcast
 
-- [Full Stack Radio](http://www.fullstackradio.com/) - A podcast for developers interested in building great software products. Hosted by: [Adam Wathan](https://adamwathan.me/).
-
-
-- [ShopTalk](http://shoptalkshow.com/) - An internet radio show about the internet starring [Dave Rupert](http://daverupert.com/) and [Chris Coyier](http://chriscoyier.net/).
-
-
-- [The Laravel Podcast](http://www.laravelpodcast.com/) - The Laravel Podcast brings you Laravel and PHP development news and discussion. The podcast is hosted by [Matt Stauffer](https://mattstauffer.co/) and regular guests include [Taylor Otwell](http://taylorotwell.com/) and [Jeffrey Way](https://laracasts.com/).
+- [Full Stack Radio](http://www.fullstackradio.com) - A podcast for developers interested in building great software products. Hosted by: [Adam Wathan](https://adamwathan.me).
+- [ShopTalk](http://shoptalkshow.com) - An internet radio show about the internet starring [Dave Rupert](http://daverupert.com) and [Chris Coyier](http://chriscoyier.net).
+- [The Laravel Podcast](http://www.laravelpodcast.com) - The Laravel Podcast brings you Laravel and PHP development news and discussion. The podcast is hosted by [Matt Stauffer](https://mattstauffer.co) and regular guests include [Taylor Otwell](http://taylorotwell.com) and [Jeffrey Way](https://laracasts.com).
 
 ## Twitter
 
