@@ -1,6 +1,6 @@
 # Awesome Links [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-![Awesome Links](https://i.giphy.com/XEF1gVbnOodkQ.gif)
+<img src="https://i.giphy.com/XEF1gVbnOodkQ.gif" alt="Awesome Links" width="100%">
 
 > A curated list of [awesome](https://github.com/sindresorhus/awesome#readme) links found by the web developer students.
 
