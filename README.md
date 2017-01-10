@@ -27,6 +27,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [editorconfig](https://github.com/sindresorhus/atom-editorconfig#readme) - Helps developers maintain consistent coding styles between different editors.
 - [linter-js-standard](https://github.com/ricardofbarros/linter-js-standard#readme) - Atom linter for JavaScript, using [JavaScript Standard Style](http://standardjs.com).
 - [perfectionist](https://github.com/sindresorhus/atom-perfectionist#readme) - Atom package to beautify CSS and SCSS with [Perfectionist](https://github.com/ben-eb/perfectionist).
+- [recent-files-fuzzy-finder](https://github.com/viddo/recent-files-fuzzy-finder#readme) - Quickly find recently opened files through the default [Fuzzy Finder](https://github.com/atom/fuzzy-finder) in Atom.
 
 <h2 id="c">C#</h2>
 
