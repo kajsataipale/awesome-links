@@ -11,6 +11,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Articles](#articles)
 - [Atom](#atom)
 - [C#](#c)
+- [CLI](#cli)
 - [CSS](#css)
 - [JavaScript](#javascript)
 - [PHP](#php)
@@ -32,6 +33,10 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 <h2 id="c">C#</h2>
 
 - [C# for Beginners](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169) - Easy-to-follow course in C# using Visual Studio with tutor Bob Tabor.
+
+## CLI
+
+- [Getting Git](https://gettinggit.com) - A comprehensive video series from git init to Git Master.
 
 ## CSS
 
