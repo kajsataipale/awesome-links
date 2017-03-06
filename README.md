@@ -17,7 +17,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [PHP](#php)
 - [Podcast](#podcast)
 - [Twitter](#twitter)
-- [Web design](#web design)
+- [Web design](#web-design)
 - [YouTube](#youtube)
 
 # Articles
