@@ -17,6 +17,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [PHP](#php)
 - [Podcast](#podcast)
 - [Twitter](#twitter)
+- [Web design](#webdesign)
 - [YouTube](#youtube)
 
 # Articles
@@ -71,6 +72,10 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Front-End Front](https://twitter.com/frontendfront) - Front-End Front tweets interesting front-end development links.
 - [Monica Dinosaurescu](https://twitter.com/notwaldorf) - Monica is a [Polymer](https://www.polymer-project.org/1.0/) and [Google Chrome](https://www.google.com/chrome/) developer.
 - [Wes Bos](https://twitter.com/wesbos) - Wes tweets about JavaScript tips and tricks.
+
+## Web design
+
+- [Better web type](https://betterwebtype.com/) - An easy-to-follow web typography email course for web designers and web developers.
 
 ## YouTube
 
