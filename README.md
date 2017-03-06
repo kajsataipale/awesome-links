@@ -73,9 +73,9 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Monica Dinosaurescu](https://twitter.com/notwaldorf) - Monica is a [Polymer](https://www.polymer-project.org/1.0/) and [Google Chrome](https://www.google.com/chrome/) developer.
 - [Wes Bos](https://twitter.com/wesbos) - Wes tweets about JavaScript tips and tricks.
 
-## Web design
+## Web Design
 
-- [Better web type](https://betterwebtype.com/) - An easy-to-follow web typography email course for web designers and web developers.
+- [Better Web Type](https://betterwebtype.com/) - An easy-to-follow web typography email course for web designers and web developers.
 
 ## YouTube
 
