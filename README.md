@@ -20,7 +20,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Web Design](#web-design)
 - [YouTube](#youtube)
 
-# Articles
+## Articles
 
 - [There are a lot of different educational online platforms to become a developer](https://hackernoon.com/there-are-a-lot-of-different-educational-online-platforms-to-become-a-developer-d4730ce0d0e1) - Hacker Noon
 
