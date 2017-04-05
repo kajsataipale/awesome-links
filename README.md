@@ -27,7 +27,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 ## Atom
 
 - [editorconfig](https://github.com/sindresorhus/atom-editorconfig#readme) - Helps developers maintain consistent coding styles between different editors.
-- [linter-js-standard](https://github.com/ricardofbarros/linter-js-standard#readme) - Atom linter for JavaScript, using [JavaScript Standard Style](http://standardjs.com).
+- [linter-js-standard](https://github.com/ricardofbarros/linter-js-standard#readme) - Atom linter for JavaScript, using [JavaScript Standard Style](https://standardjs.com).
 - [perfectionist](https://github.com/sindresorhus/atom-perfectionist#readme) - Atom package to beautify CSS and SCSS with [Perfectionist](https://github.com/ben-eb/perfectionist).
 - [recent-files-fuzzy-finder](https://github.com/viddo/recent-files-fuzzy-finder#readme) - Quickly find recently opened files through the default [Fuzzy Finder](https://github.com/atom/fuzzy-finder) in Atom.
 
@@ -43,7 +43,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 - [Flexbox Cheat-Sheet](http://www.lukeduncan.me/flexbox-cheat-sheet/) - A Flexbox cheat-sheet by Luke Duncan.
 - [Flexbox Froggy](http://flexboxfroggy.com) -  An interactive game to learn [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes).
-- [mydevice.io](http://www.mydevice.io/) - Good page for finding the right media queries for your responsive site.
+- [mydevice.io](https://www.mydevice.io/) - Good page for finding the right media queries for your responsive site.
 - [Specifity Calculator](https://specificity.keegan.st) - An interactive specifity calculator for selectors.
 - [What the Flexbox?](https://flexbox.io/) - A simple, free 20 video course that will help you master Flexbox.
 
@@ -53,7 +53,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) - A beginner HTML & CSS online course by [Udacity](https://www.udacity.com).
 - [JavaScript 30](https://javascript30.com) - Build 30 things with vanilla JS in 30 days with 30 tutorials
 - [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) - A video course by Egghead.
-- [Rollup.js](http://rollupjs.org) - The next-generation JavaScript module bundler.
+- [Rollup.js](https://rollupjs.org) - The next-generation JavaScript module bundler.
 - [The Best Way To Learn Modern JavaScript](https://es6.io) - A premium training course to strengthen your core JavaScript skills.
 - [Webpack 2](https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY) - Webpack 2 video tutorials, explaining Webpack API to complete beginners.
 - [You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS#readme) - An open source Javascript book series from beginner to advanced.
@@ -66,12 +66,12 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 - [Full Stack Radio](http://www.fullstackradio.com) - A podcast for developers interested in building great software hosted by [Adam Wathan](https://adamwathan.me).
 - [ShopTalk](http://shoptalkshow.com) - An internet radio show about the internet starring [Dave Rupert](http://daverupert.com) and [Chris Coyier](http://chriscoyier.net).
-- [The Laravel Podcast](http://www.laravelpodcast.com) - The Laravel Podcast brings you Laravel and PHP development news and discussion. The podcast is hosted by [Matt Stauffer](https://mattstauffer.co) and regular guests include [Taylor Otwell](http://taylorotwell.com) and [Jeffrey Way](https://laracasts.com).
+- [The Laravel Podcast](http://www.laravelpodcast.com) - The Laravel Podcast brings you Laravel and PHP development news and discussion. The podcast is hosted by [Matt Stauffer](https://mattstauffer.co) and regular guests include [Taylor Otwell](https://medium.com/@taylorotwell) and [Jeffrey Way](https://laracasts.com).
 
 ## Twitter
 
 - [Front-End Front](https://twitter.com/frontendfront) - Front-End Front tweets interesting front-end development links.
-- [Monica Dinosaurescu](https://twitter.com/notwaldorf) - Monica is a [Polymer](https://www.polymer-project.org/1.0/) and [Google Chrome](https://www.google.com/chrome/) developer.
+- [Monica Dinosaurescu](https://twitter.com/notwaldorf) - Monica is a [Polymer](https://www.polymer-project.org) and [Google Chrome](https://www.google.com/chrome/) developer.
 - [Wes Bos](https://twitter.com/wesbos) - Wes tweets about JavaScript tips and tricks.
 
 ## Web Design
