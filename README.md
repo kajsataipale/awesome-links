@@ -55,6 +55,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) - A video course by Egghead.
 - [Rollup.js](http://rollupjs.org) - The next-generation JavaScript module bundler.
 - [The Best Way To Learn Modern JavaScript](https://es6.io) - A premium training course to strengthen your core JavaScript skills.
+- [Webpack 2](https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY) - Webpack 2 video tutorials, explaining Webpack API to complete beginners.
 - [You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS#readme) - An open source Javascript book series from beginner to advanced.
 
 ## PHP
