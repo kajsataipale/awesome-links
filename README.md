@@ -58,6 +58,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [The Best Way To Learn Modern JavaScript](https://es6.io) - A premium training course to strengthen your core JavaScript skills.
 - [Webpack 2](https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY) - Webpack 2 video tutorials, explaining Webpack API to complete beginners.
 - [You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS#readme) - An open source Javascript book series from beginner to advanced.
+- [React Training](https://reacttraining.com/react-router/web/guides/quick-start) - A step by step react training guide.
 
 ## PHP
 
