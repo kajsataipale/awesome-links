@@ -49,6 +49,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 ## JavaScript
 
+- [Asynchronous JavaScript with async/await](https://egghead.io/courses/asynchronous-javascript-with-async-await) - A video course by Egghead.
 - [Beau teaches JavaScript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_) - JavaScript beginner video series by Free Code Camp.
 - [Different Ways to Debug JavaScript Code](https://medium.com/@sandeep.scet/different-ways-to-debug-javascript-code-579e7f58cf10) - Tons of tips for JS debugging.
 - [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) - A beginner HTML & CSS online course by [Udacity](https://www.udacity.com).
