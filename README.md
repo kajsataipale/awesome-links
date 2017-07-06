@@ -22,6 +22,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 ## Articles
 
+- [5 Lessons My Bootcamp Didn't Teach Me](https://dev.to/kim_hart/5-lessons-my-bootcamp-didnt-teach-me) - Kim Hart
 - [There are a lot of different educational online platforms to become a developer](https://hackernoon.com/there-are-a-lot-of-different-educational-online-platforms-to-become-a-developer-d4730ce0d0e1) - Hacker Noon
 
 ## Atom
