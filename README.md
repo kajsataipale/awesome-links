@@ -2,7 +2,7 @@
 
 <img src="https://i.giphy.com/XEF1gVbnOodkQ.gif" alt="Awesome Links" width="100%">
 
-> A curated list of [awesome](https://github.com/sindresorhus/awesome#readme) links found by the web developer students.
+> A curated list of [awesome](https://github.com/sindresorhus/awesome#readme) educational links found by the web developer students.
 
 Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you read the [guidelines](CONTRIBUTING.md) first!
 
