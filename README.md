@@ -16,6 +16,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [JavaScript](#javascript)
 - [PHP](#php)
 - [Podcast](#podcast)
+- [Random](#random)
 - [Twitter](#twitter)
 - [Web Design](#web-design)
 - [YouTube](#youtube)
@@ -73,6 +74,9 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [The Laravel Podcast](http://www.laravelpodcast.com) - The Laravel Podcast brings you Laravel and PHP development news and discussion. The podcast is hosted by [Matt Stauffer](https://mattstauffer.co) and regular guests include [Taylor Otwell](https://medium.com/@taylorotwell) and [Jeffrey Way](https://laracasts.com).
 - [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers by [Wes Bos](https://twitter.com/wesbos) and [Scott Tolinski](https://twitter.com/stolinski).
 
+## Random
+
+- [Geek Typer](http://geektyper.com) - Hack like a programmer in movies and games!
 
 ## Twitter
 
