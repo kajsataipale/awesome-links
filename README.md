@@ -10,12 +10,13 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 - [Articles](#articles)
 - [Atom](#atom)
+- [Books](#books)
 - [C#](#c)
 - [CLI](#cli)
 - [CSS](#css)
 - [JavaScript](#javascript)
 - [PHP](#php)
-- [Podcast](#podcast)
+- [Podcast](#podcasts)
 - [Random](#random)
 - [Twitter](#twitter)
 - [Web Design](#web-design)
@@ -36,6 +37,10 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 <h2 id="c">C#</h2>
 
 - [C# for Beginners](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169) - Easy-to-follow course in C# using Visual Studio with tutor Bob Tabor.
+
+## Books
+
+- [Essential Image Optimization](https://images.guide) - A free book on modern image optimization techniques by Addy Osmani.
 
 ## CLI
 
@@ -67,7 +72,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 - [The PHP Practitioner](https://laracasts.com/series/php-for-beginners) - A beginner video course by [Laracasts](https://laracasts.com).
 
-## Podcast
+## Podcasts
 
 - [Full Stack Radio](http://www.fullstackradio.com) - A podcast for developers interested in building great software hosted by [Adam Wathan](https://adamwathan.me).
 - [ShopTalk](http://shoptalkshow.com) - An internet radio show about the internet starring [Dave Rupert](http://daverupert.com) and [Chris Coyier](https://chriscoyier.net/).
