@@ -70,6 +70,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 ## PHP
 
+- [PHP Basics](https://www.codecourse.com/lessons/php-basics/1170) - A video course with the basics and practical examples by Codecourse.
 - [The PHP Practitioner](https://laracasts.com/series/php-for-beginners) - A beginner video course by [Laracasts](https://laracasts.com).
 
 ## Podcasts
