@@ -99,7 +99,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 ## YouTube
 
-- [Codecourse](https://www.youtube.com/codecourse) - Super awesome PHP tutorials.
+- [Codecourse](https://www.youtube.com/codecourse) - A collection of super awesome PHP tutorials.
 - [DevMarketer](https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA/videos) - DevMarketer is a channel devoted to tutorials and tips. Specific topics include SEO, PPC, Email Marketing, Website Development, Code, Affiliate Marketing, eCommerce, and more.
 - [DevTips](https://www.youtube.com/user/devtipsfordesigners) - Really cool front-end and web design tutorials.
 - [Level Up Tutorials](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg) - Lots of in depth tutorials on mostly different frameworks.
