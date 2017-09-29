@@ -45,6 +45,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 ## CLI
 
 - [Getting Git](https://gettinggit.com) - A comprehensive video series from git init to Git Master.
+- [tldr](https://tldr.ostera.io) - Simplified and community-driven man pages.
 
 ## CSS
 
@@ -82,6 +83,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 ## Random
 
+- [Endless Horse](http://endless.horse) - The website for an endless ASCII horse.
 - [Geek Typer](http://geektyper.com) - Hack like a programmer in movies and games!
 
 ## Twitter
