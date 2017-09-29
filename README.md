@@ -48,11 +48,11 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 ## CSS
 
-- [Flexbox Cheat-Sheet](http://www.lukeduncan.me/flexbox-cheat-sheet/) - A Flexbox cheat-sheet by Luke Duncan.
+- [Flexbox Cheat-Sheet](http://www.lukeduncan.me/flexbox-cheat-sheet) - A Flexbox cheat-sheet by Luke Duncan.
 - [Flexbox Froggy](http://flexboxfroggy.com) -  An interactive game to learn [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes).
-- [mydevice.io](https://www.mydevice.io/) - Good page for finding the right media queries for your responsive site.
+- [mydevice.io](https://www.mydevice.io) - Good page for finding the right media queries for your responsive site.
 - [Specifity Calculator](https://specificity.keegan.st) - An interactive specifity calculator for selectors.
-- [What the Flexbox?](https://flexbox.io/) - A simple, free 20 video course that will help you master Flexbox.
+- [What the Flexbox?](https://flexbox.io) - A simple, free 20 video course that will help you master Flexbox.
 
 ## JavaScript
 
@@ -76,9 +76,9 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 ## Podcasts
 
 - [Full Stack Radio](http://www.fullstackradio.com) - A podcast for developers interested in building great software hosted by [Adam Wathan](https://adamwathan.me).
-- [ShopTalk](http://shoptalkshow.com) - An internet radio show about the internet starring [Dave Rupert](http://daverupert.com) and [Chris Coyier](https://chriscoyier.net/).
+- [ShopTalk](http://shoptalkshow.com) - An internet radio show about the internet starring [Dave Rupert](http://daverupert.com) and [Chris Coyier](https://chriscoyier.net).
 - [The Laravel Podcast](http://www.laravelpodcast.com) - The Laravel Podcast brings you Laravel and PHP development news and discussion. The podcast is hosted by [Matt Stauffer](https://mattstauffer.co) and regular guests include [Taylor Otwell](https://medium.com/@taylorotwell) and [Jeffrey Way](https://laracasts.com).
-- [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers by [Wes Bos](https://twitter.com/wesbos) and [Scott Tolinski](https://twitter.com/stolinski).
+- [Syntax](https://syntax.fm) - A Tasty Treats Podcast for Web Developers by [Wes Bos](https://twitter.com/wesbos) and [Scott Tolinski](https://twitter.com/stolinski).
 
 ## Random
 
@@ -87,12 +87,12 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 ## Twitter
 
 - [Front-End Front](https://twitter.com/frontendfront) - Front-End Front tweets interesting front-end development links.
-- [Monica Dinosaurescu](https://twitter.com/notwaldorf) - Monica is a [Polymer](https://www.polymer-project.org) and [Google Chrome](https://www.google.com/chrome/) developer.
+- [Monica Dinosaurescu](https://twitter.com/notwaldorf) - Monica is a [Polymer](https://www.polymer-project.org) and [Google Chrome](https://www.google.com/chrome) developer.
 - [Wes Bos](https://twitter.com/wesbos) - Wes tweets about JavaScript tips and tricks.
 
 ## Web Design
 
-- [Better Web Type](https://betterwebtype.com/) - An easy-to-follow web typography email course for web designers and web developers.
+- [Better Web Type](https://betterwebtype.com) - An easy-to-follow web typography email course for web designers and web developers.
 
 ## YouTube
 
@@ -103,6 +103,6 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, [Yrgo](http://yrgo.se) has waived all copyright and related or neighboring rights to this work.
