@@ -102,6 +102,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 - [Animation Effects](https://blog.trackduck.com/2015/06/10/15-impressive-pop-animation-effects-codepen) - 15 awesome pop-up animations, and the code to understand how they work.
 - [Better Web Type](https://betterwebtype.com) - An easy-to-follow web typography email course for web designers and web developers.
+- [Fount](https://fount.artequalswork.com/) - A tool to help you identify any web font you see.
 
 ## YouTube
 
