@@ -52,7 +52,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 ## CSS
 
-- [CSS Reference](https://tympanus.net/codrops/css_reference/#section_css-property) - An extensive CSS reference with all the important properties and info to learn CSS from the basics.
+- [CSS Reference](https://tympanus.net/codrops/css_reference/#section_css-property) - An extensive CSS reference with all the important properties.
 - [Flexbox Cheat-Sheet](http://www.lukeduncan.me/flexbox-cheat-sheet) - A Flexbox cheat-sheet by Luke Duncan.
 - [Flexbox Froggy](http://flexboxfroggy.com) -  An interactive game to learn [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes).
 - [mydevice.io](https://www.mydevice.io) - Good page for finding the right media queries for your responsive site.
