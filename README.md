@@ -57,6 +57,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [mydevice.io](https://www.mydevice.io) - Good page for finding the right media queries for your responsive site.
 - [Specifity Calculator](https://specificity.keegan.st) - An interactive specifity calculator for selectors.
 - [What the Flexbox?](https://flexbox.io) - A simple, free 20 video course that will help you master Flexbox.
+- [CSS Reference](https://tympanus.net/codrops/css_reference/#section_css-property) - An extensive CSS reference with all the important properties and info to learn CSS from the basics.
 
 ## JavaScript
 
