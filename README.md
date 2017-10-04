@@ -63,6 +63,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Flexbox Froggy](http://flexboxfroggy.com) -  An interactive game to learn [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes).
 - [mydevice.io](https://www.mydevice.io) - Good page for finding the right media queries for your responsive site.
 - [Specifity Calculator](https://specificity.keegan.st) - An interactive specifity calculator for selectors.
+- [Simple transitions](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/) - Simple css animations.
 - [What the Flexbox?](https://flexbox.io) - A simple, free 20 video course that will help you master Flexbox.
 - [CSS Validator](https://jigsaw.w3.org/css-validator/) - Validate that your CSS style sheets do not contain errors, typos, incorrect uses of CSS and more.
 
