@@ -51,10 +51,6 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics) - A guide about getting started with Git.
 - [tldr](https://tldr.ostera.io) - Simplified and community-driven man pages.
 
-## HTML
-
-- [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) - A beginner HTML & CSS online course by [Udacity](https://www.udacity.com).
-
 ## CSS
 
 - [CSS Reference](https://tympanus.net/codrops/css_reference/#section_css-property) - An extensive CSS reference with all the important properties.
@@ -62,6 +58,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [CSS Tower Defense](http://www.flexboxdefense.com/) - Classic tower defense game with a relevant twist.
 - [Flexbox Froggy](http://flexboxfroggy.com) -  An interactive game to learn [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes).
 - [mydevice.io](https://www.mydevice.io) - Good page for finding the right media queries for your responsive site.
+- [Simple transitions](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/) - Simple css animations.
 - [Specifity Calculator](https://specificity.keegan.st) - An interactive specifity calculator for selectors.
 - [What the Flexbox?](https://flexbox.io) - A simple, free 20 video course that will help you master Flexbox.
 - [CSS Validator](https://jigsaw.w3.org/css-validator/) - Validate that your CSS style sheets do not contain errors, typos, incorrect uses of CSS and more.
@@ -71,6 +68,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Asynchronous JavaScript with async/await](https://egghead.io/courses/asynchronous-javascript-with-async-await) - A video course by Egghead.
 - [Beau teaches JavaScript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_) - JavaScript beginner video series by Free Code Camp.
 - [Different Ways to Debug JavaScript Code](https://medium.com/@sandeep.scet/different-ways-to-debug-javascript-code-579e7f58cf10) - Tons of tips for JS debugging.
+- [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) - A beginner HTML & CSS online course by [Udacity](https://www.udacity.com).
 - [JavaScript 30](https://javascript30.com) - Build 30 things with vanilla JS in 30 days with 30 tutorials
 - [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) - A video course by Egghead.
 - [Rollup.js](https://rollupjs.org) - The next-generation JavaScript module bundler.
