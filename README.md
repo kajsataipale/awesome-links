@@ -35,6 +35,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [perfectionist](https://github.com/sindresorhus/atom-perfectionist#readme) - Atom package to beautify CSS and SCSS with [Perfectionist](https://github.com/ben-eb/perfectionist).
 - [recent-files-fuzzy-finder](https://github.com/viddo/recent-files-fuzzy-finder#readme) - Quickly find recently opened files through the default [Fuzzy Finder](https://github.com/atom/fuzzy-finder) in Atom.
 - [sort-lines](https://github.com/atom/sort-lines#readme) - An Atom package to sort lines of text.
+- [emmet](https://github.com/emmetio/emmet-atom) - Emmet is a plugin for many popular text editors which greatly improves HTML & CSS workflow.
 
 <h2 id="c">C#</h2>
 
