@@ -47,7 +47,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 ## CLI
 
 - [Getting Git](https://gettinggit.com) - A comprehensive video series from git init to Git Master.
-- [Git Documentation](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics) - Getting started with Git.
+- [Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics) - A guide about getting started with Git.
 - [tldr](https://tldr.ostera.io) - Simplified and community-driven man pages.
 
 ## CSS
