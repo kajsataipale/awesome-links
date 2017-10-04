@@ -91,6 +91,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 - [Endless Horse](http://endless.horse) - The website for an endless ASCII horse.
 - [Geek Typer](http://geektyper.com) - Hack like a programmer in movies and games!
+- [Text Faces](https://textfac.es/) - Click to copy to clipboard. Paste anywhere. Achieve glory.
 
 ## Twitter
 
