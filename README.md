@@ -21,7 +21,6 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Twitter](#twitter)
 - [Web Design](#web-design)
 - [YouTube](#youtube)
-- [Github](#Github)
 
 ## Articles
 
@@ -48,6 +47,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 ## CLI
 
 - [Getting Git](https://gettinggit.com) - A comprehensive video series from git init to Git Master.
+- [Git Documentation](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics) - Getting started with Git.
 - [tldr](https://tldr.ostera.io) - Simplified and community-driven man pages.
 
 ## CSS
@@ -106,11 +106,6 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [DevMarketer](https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA/videos) - DevMarketer is a channel devoted to tutorials and tips. Specific topics include SEO, PPC, Email Marketing, Website Development, Code, Affiliate Marketing, eCommerce, and more.
 - [DevTips](https://www.youtube.com/user/devtipsfordesigners) - Really cool front-end and web design tutorials.
 - [Level Up Tutorials](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg) - Lots of in depth tutorials on mostly different frameworks.
-
-## Github
-
-- [Git-scm](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics) - Getting started with Git.
-
 
 ## License
 
